@@ -7,9 +7,4 @@ def square_array(array)
   end 
   return new_array
   
- while array[i] < array.length do
-   p array[i] ** 2
-   i += 1 
-  end 
-  return array ** 2
-end
+ end
